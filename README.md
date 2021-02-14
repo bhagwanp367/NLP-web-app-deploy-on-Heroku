@@ -1,6 +1,8 @@
 # NLP-Model-Deployment
+### Sample tweets
+
 1=Disaster 0=Not disaster 
-Sample tweets
+
 1. Our Deeds are the Reason of this #earthquake May ALLAH Forgive us all                                 1
 
 
